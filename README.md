@@ -1,5 +1,4 @@
 # HexSoftwares_Personality-Prediction-System
-# HexSoftwares_Personality-Prediction-System
 
 📄 Personality Prediction System Through CV Analysis
 📌 Overview
